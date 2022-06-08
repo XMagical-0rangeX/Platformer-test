@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+  }
+  img {
+    display: none;
+  }
+  canvas {
+    border: 1px grey;
+  }
